@@ -56,3 +56,5 @@ impl PayrollStreamContract {
   }
   pub fn get_stream(env: Env, stream_id: u64) -> Option<PayrollStream> { env.storage().persistent().get(&DataKey::Stream(stream_id)) }
 }
+
+// TODO: add solvency invariant check before every claim
