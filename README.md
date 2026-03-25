@@ -188,3 +188,6 @@ Apache 2.0 — see [LICENSE](LICENSE)
 [EuStellar-Pay Organization](https://github.com/EuStellar-Pay) • [Frontend](https://github.com/EuStellar-Pay/EuPay-frontend) • [Backend](https://github.com/EuStellar-Pay/EuPay-backend) • [Mobile](https://github.com/EuStellar-Pay/EuPay-mobile)
 
 </div>
+
+## Development Status
+Active development — see [issues](https://github.com/EuStellar-Pay/EuPay-smartcontract/issues) for roadmap.
