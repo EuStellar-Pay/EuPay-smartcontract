@@ -17,7 +17,3 @@
 | [@Rampop01](https://github.com/Rampop01) | Past Contributor |
 | [@LaGodxy](https://github.com/LaGodxy) | Past Contributor |
 | [@AbelOsaretin](https://github.com/AbelOsaretin) | Past Contributor |
-| [@7maylord](https://github.com/7maylord) | Past Contributor |
-| [@Jayy4rl](https://github.com/Jayy4rl) | Past Contributor |
-| [@CMI-James](https://github.com/CMI-James) | Past Contributor |
-| [@edehvictor](https://github.com/edehvictor) | Past Contributor |
