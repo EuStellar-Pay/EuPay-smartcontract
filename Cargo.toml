@@ -1,13 +1,24 @@
 [workspace]
-members = ["contracts/payroll_stream", "contracts/treasury_vault"]
+members = [
+    "contracts/payroll_stream",
+    "contracts/treasury_vault",
+]
 resolver = "2"
+
+[workspace.package]
+version      = "0.1.0"
+edition      = "2021"
+rust-version = "1.74.0"
+
 [workspace.dependencies]
 soroban-sdk = { version = "22.0.0", features = ["alloc"] }
+
 [profile.release]
-opt-level = "z"
-overflow-checks = true
-debug = 0
-strip = "symbols"
+opt-level        = "z"
+overflow-checks  = true
+debug            = 0
+strip            = "symbols"
 debug-assertions = false
-panic = "abort"
-codegen-units = 1
+panic            = "abort"
+codegen-units    = 1
+lto              = true
